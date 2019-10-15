@@ -2,26 +2,26 @@
   "freshers": [
     {
       "id": 1,
-      "name": "Roshan Tom"
+      "name": "Roshan Tom",
       "technology": "Angular",
       "status": "training"
     },
     {
       "id": 1,
-      "name": "Anand"
+      "name": "Anand",
       "technology": "Angular",
       "status": "training"
     },
     {
       "id": 1,
-      "name": "Anand"
+      "name": "Anand",
       "technology": "Angular",
       "status": "training"
     }
     ,
     {
       "id": 1,
-      "name": "Anand"
+      "name": "Anand",
       "technology": "Angular",
       "status": "training"
     }
