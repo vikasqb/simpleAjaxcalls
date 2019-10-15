@@ -3,27 +3,27 @@
     {
       "id": 1,
       "name": "Roshan Tom"
-      "technology":"Angular",
-      "status":"training"
+      "technology": "Angular",
+      "status": "training"
     },
     {
       "id": 1,
       "name": "Anand"
-      "technology":"Angular",
-      "status":"training"
+      "technology": "Angular",
+      "status": "training"
     },
     {
       "id": 1,
       "name": "Anand"
-      "technology":"Angular",
-      "status":"training"
+      "technology": "Angular",
+      "status": "training"
     }
     ,
     {
       "id": 1,
       "name": "Anand"
-      "technology":"Angular",
-      "status":"training"
+      "technology": "Angular",
+      "status": "training"
     }
   ],
   "comments": [
