@@ -7,21 +7,96 @@
       "status": "training"
     },
     {
-      "id": 1,
+      "id": 2,
       "name": "Anand",
       "technology": "Angular",
       "status": "training"
     },
     {
-      "id": 1,
-      "name": "Anand",
-      "technology": "Angular",
+      "id": 3,
+      "name": "Sourav",
+      "technology": "iOS",
+      "status": "Probation"
+    }
+    ,
+    {
+      "id": 4,
+      "name": "Heera",
+      "technology": "Python",
+      "status": "Confirmed"
+    },
+     {
+      "id": 5,
+      "name": "Zyed",
+      "technology": "Android",
+      "status": "training"
+    },
+    {
+      "id": 6,
+      "name": "Jacod",
+      "technology": "QA",
+      "status": "training"
+    },
+    {
+      "id": 7,
+      "name": "Nithin",
+      "technology": "React",
       "status": "training"
     }
     ,
     {
-      "id": 1,
+      "id": 8,
+      "name": "Vineeth",
+      "technology": "Ruby",
+      "status": "training"
+    },
+     {
+      "id": 9,
+      "name": "Sanju",
+      "technology": "Angular",
+      "status": "training"
+    },
+    {
+      "id": 10,
+      "name": "Irshad",
+      "technology": "Java",
+      "status": "training"
+    },
+    {
+      "id": 11,
+      "name": "Soumya",
+      "technology": "Devops",
+      "status": "Confirmed"
+    }
+    ,
+    {
+      "id": 12,
       "name": "Anand",
+      "technology": "Angular",
+      "status": "training"
+    },
+     {
+      "id": 13,
+      "name": "Risana",
+      "technology": "Angular",
+      "status": "training"
+    },
+    {
+      "id": 14,
+      "name": "Adnan",
+      "technology": "Angular",
+      "status": "training"
+    },
+    {
+      "id": 15,
+      "name": "Binu",
+      "technology": "Designer",
+      "status": "training"
+    }
+    ,
+    {
+      "id": 16,
+      "name": "Gokul",
       "technology": "Angular",
       "status": "training"
     }
