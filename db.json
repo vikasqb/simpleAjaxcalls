@@ -1,16 +1,29 @@
 {
-  "posts": [
+  "freshers": [
     {
       "id": 1,
-      "title": "Post 1"
+      "name": "Roshan Tom"
+      "technology":"Angular",
+      "status":"training"
     },
     {
-      "id": 2,
-      "title": "Post 2"
+      "id": 1,
+      "name": "Anand"
+      "technology":"Angular",
+      "status":"training"
     },
     {
-      "id": 3,
-      "title": "Post 3"
+      "id": 1,
+      "name": "Anand"
+      "technology":"Angular",
+      "status":"training"
+    }
+    ,
+    {
+      "id": 1,
+      "name": "Anand"
+      "technology":"Angular",
+      "status":"training"
     }
   ],
   "comments": [
